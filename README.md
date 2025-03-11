@@ -6,6 +6,8 @@
 
 Reverse engineering of `3D Pinball for Windows - Space Cadet`, a game bundled with Windows.
 
+_This fork will try to separate game logic from rendering code_.
+
 ## How to play
 
 Place compiled executable into a folder containing original game resources (not included).\
